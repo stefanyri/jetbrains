@@ -3,3 +3,7 @@ IntelliJ IDEA has lots of configuration options in the IDE preferences. Come up 
 For one of your ideas, formulate the tasks required for designers and developers to implement it.
 
 Come up with the metrics that you will use to evaluate the success of the implemented improvement.
+
+
+Too many tips at the beginning. Yes, they are useful, but new user will not be able to remember all of htem in one go anyway. So it is better just to show basic information,
+like what functions are in differentn tabs and shoq where to find all information about all hot keys.
